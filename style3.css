@@ -1,0 +1,126 @@
+body {
+  background-color:rgb(255,255,128);
+  font-weipht:normal;
+  font-size:medium;
+  text-align:center;
+  margin-left:10%;
+  margin-bottom:8%;
+  margin-right:10%;
+  margin-top:2%;
+  padding:auto;
+  color:black;
+  margin:40px 40px 40px 40px;
+  }
+.p6{
+	font-size:15px;
+}  
+h2,h3{
+	color:rgb(249,5,5);	
+}  
+
+.i6{
+	background: url(img_other.JPG) 0 0 ;
+}
+.i2,.i3,.i4,.i5,.i6,.i7,.i60,.i8,.i9,.i10,.i11{
+	max-height:200px;
+	width:50%;
+}
+.o1,.hh3{
+	color:gold;
+}
+.hhh,.n1{
+	color:rgb(108,255,108);
+}
+.n8{
+	color:rgb(249,5,5);	
+}
+.hh7,.n2{
+	color:rgb(255,128,192);
+}
+.hh70,.n3{
+	color:rgb(128,128,64);
+}
+.hh8,.n4{
+	color:rgb(149,0,0);
+}
+.hh9,.n5{
+	color:rgb(0,0,255);
+}
+.hh10,.n6{
+	color:rgb(255,128,0);
+}
+.hh11,.n7{
+	color:rgb(0,253,253);
+}
+.p101{
+	font-weipht:normal;
+	text-shadow: 8px 8px 3px;
+	color:red;
+}
+.p102{
+	font-size:large;
+	border-raduis:10px 10px 5px 5px;
+	text-align:center;
+	box-shadow: 8px 8px 6px black;
+	border:10px yellow solid;
+	background-color:orange;
+	width:100%;
+	border-radius:20px;
+}
+.p102:focus{
+	background-color:rgb(253,0,19);
+}
+.p102:active{
+	transform: translateY(10px); 
+    border-radius:20px;
+}
+.aa2{
+	list-style-type:none;
+}
+.aa3{
+	list-style-type:none;
+}
+a:visited{
+	color:rgb(55,150,255);
+}
+.link1:active,.link2:active,.link3:active,.link4:active,.link5:active,.hahaha:active{
+	color:red;
+}
+link1:visited,link2:visited,link3:visited,link4:visited,link5:visited,{
+	background-color:yellow;
+}
+.aa0{
+	list-style-type:none;
+}
+ul{
+	overflow:hidden;
+	background-color:yellow;
+	/*position:fixed;*/
+}
+.link1,.link2,.link3,.link4,.link5{
+	float:left;
+}
+.link1 a,.link2 a,.link3 a,.link4 a,.link5 a{
+	inline:display-block;
+}
+
+ul a{
+	text-align:left;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+	color:black;
+	font-style:italic;
+	font-size:large;
+	list-style-type:none;
+	overflow:auto;
+	/*position:fixed;*/
+	overflow:hidden;
+	display:flex;
+	align-items:flex-start;
+	flex-wrap:wrap; 
+}
+
+a:hover{
+	background-color:orange;
+}

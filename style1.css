@@ -1,0 +1,132 @@
+body {
+  background:url("the first smartphone1.JPG") fixed no-repeat right;
+  font-size:medium;
+  font-weipht:normal;
+  background-color:rgb(255,255,128);
+  color:black;
+  margin:40px 40px 40px 40px;
+}
+.aa0{
+	list-style-type:none;
+}
+.aa1{
+	list-style-type:circle;
+}
+ul{
+	overflow:hidden;
+	background-color:yellow;
+	/*position:fixed;*/
+}
+.link1,.link2,.link3,.link4,.link5{
+	float:left;
+}
+.link1 a,.link2 a,.link3 a,.link4 a,.link5 a{
+	inline:display-block;
+}
+
+ul a{
+	text-align:left;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+	color:black;
+	font-style:italic;
+	font-size:large;
+	list-style-type:none;
+	overflow:auto;
+	/*position:fixed;*/
+	overflow:hidden;
+	display:flex;
+	align-items:flex-start;
+	flex-wrap:wrap; 
+}
+.link1 a.active{
+	background-color:blue;
+}
+/*.link1, .link2, .link3, .link4, .link5,{
+	display: inline-block;
+}*/
+.p1{
+	text-align:left;
+	text-decoration:normal;
+	margin-left:2px;
+	margin-right:2px;
+	padding-left:2px
+	padding:20px;
+}
+.p100 , .aa1{
+	text-align:left;
+	text-decoration:normal;
+	margin-left:2px;
+	margin-right:2px;
+	padding:20px;
+}
+.i1{
+	display:block;
+	/*margin-left:auto;*/
+	margin-right:80%;
+	width:70%;
+	border-radius:0.5px;
+	padding:5px;
+	height:auto;
+  /*  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  /*  filter: grayscale(100%);*/
+}
+}
+.p101{
+	font-weipht:normal;
+	text-shadow: 8px 8px 3px;
+	color:red;
+}
+.p102{
+	padding-left:630px;
+	padding-right:630px;
+	font-size:large;
+	border-raduis:10px 10px 5px 5px;
+	text-align:center;
+	box-shadow: 8px 8px 6px black;
+	border:10px yellow solid;
+	background-color:orange;
+	width:100%;
+	/*display: inline-block;*/
+	border-radius:20px;
+}
+a:active{
+	background-color:red;
+}
+a:focus{
+	color:red;
+}
+a:visited{
+	color:rgb(55,150,255);
+}                                  
+a:hover{
+	background-color:orange;
+}
+.i1:hover {
+    background-color:rgb(255,255,128);
+	border-radius:10px 10px 10px
+}
+.p102:focus{
+	background-color:rgb(253,0,19);
+	/*border-radius:20px;*/
+}
+.p102:active{
+	transform: translateY(10px);
+	border-radius:20px;
+}
+.link1:active,.link2:active,.link3:active,.link4:active,.link5:active,.hahaha:active{
+	color:red;
+}
+.aa0 .link1 .link2 .link3 .link4 .link5{
+	border:none;
+	display:inline-block;
+	cursor:pointer;
+	position:fixed;
+}
+.dddd{
+	text-align:center;
+	max-width:10%;
+	margin:auto;
+	text-align:justify;
+}

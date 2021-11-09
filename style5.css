@@ -1,0 +1,93 @@
+body {
+  color:rgb(0,0,0);
+  margin-right:2px;
+ /* background:url("touch.PNG") fixed no-repeat top right;*/
+  background-color:rgb(255,255,128);
+  margin:40px 40px 40px 40px;
+}
+name{
+	color:red;
+}
+input[type=text],input[type=name],input[type=email],input[type=tel],input[type=radio],input[type=submit],input[type=reset]/*,.de*/ {
+	border: 2px solid gold;
+    border-radius: 4px;
+}
+input[type=text]:focus {
+  width: 100%;
+}
+.dee{
+	background-color:gold;
+	
+}
+.aa0{
+	list-style-type:circle;
+	text-align:left;
+}
+ul a{
+	text-align:left;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+	color:#000;
+	font-style:italic;
+	font-size:large;
+	list-style-type:none;
+	overflow:auto;
+	/*position:fixed;*/
+	overflow:hidden;
+}
+.link1 .active{
+	background-color:blue;
+}
+.link1, .link2, .link3, .link4, .link5,{
+	display: inline-block;
+	text-align:left;
+}
+a:active{
+	background-color:red;
+}
+a:focus{
+	background-color:green;
+	
+}
+a:visited{
+	background-color:white;
+	/*height:100px;*/
+}
+.p102{
+	text-align:center;
+	/*border:2px rgb(173,173,173) solid;*/
+	background-color:cyan;
+}
+a:visited{
+	color:rgb(55,150,255);
+}
+.link1:active,.link2:active,.link3:active,.link4:active,.link5:active,.hahaha:active,.p102:active{
+	color:red;
+}
+a:visited{
+	background-color:yellow;
+}
+.aa0{
+	list-style-type:none;
+}
+ul{
+	overflow:hidden;
+	background-color:yellow;
+	/*position:fixed;*/
+}
+.link1,.link2,.link3,.link4,.link5{
+	float:left;
+}
+.aa0{
+	list-style-type:none;
+}
+.link1 a,.link2 a,.link3 a,.link4 a,.link5 a{
+	inline:display-block;
+}
+a:hover{
+	background-color:orange;
+}
+.gogo{
+	color:purple;
+}

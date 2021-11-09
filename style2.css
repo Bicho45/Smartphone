@@ -1,0 +1,137 @@
+body {
+  background-color:rgb(255,255,128);
+  margin:40px 40px 40px 40px;
+  }
+.hh2{
+	font-weipht:bold;
+}  
+table{
+	width:100%;
+}
+table, th, td, tr{
+	border:1px black solid;
+	text-align:center;
+}
+.k1{
+	color:red;
+	background-color:white
+}
+.k2{
+	color:rgb(149,0,0);
+	background-color:white;
+}
+.k3{
+	color:rgb(255,128,192);
+	background-color:white;
+}
+.k4{
+	color:rgb(0,0,255);
+	background-color:white;
+}
+.k5{
+	color:rgb(255,128,0);
+	background-color:white;
+}
+.k6{
+	color:rgb(128,128,64);
+	background-color:white;
+}
+.k7{
+	color:rgb(0,253,253);
+	background-color:white;
+}
+.k8{
+	color:rgb(108,255,108);
+	background-color:white;
+}
+.k9{
+	color:hs1(71deg 100% 50%) (30deg 100% 50%);
+	background-color:white;
+}
+.kk1{
+	font-weipht:bold;
+}
+.kkk1, .kkk2, .kkk3, .kkk4{
+	color:rgb(33,140,220);
+	background-color:rgb(0,255,0);
+	border:1px black dashed;
+}
+.p103{
+	font-weipht:normal;
+	text-shadow: 8px 8px 3px;
+	color:red;
+}
+.p104{
+	font-size:large;
+	border-raduis:10px 10px 5px 5px;
+	text-align:center;
+	box-shadow: 8px 8px 6px black;
+	border:10px yellow solid;
+	background-color:orange;
+	width:100%;
+	border-radius:20px;
+}
+.aa0{
+	list-style-type:circle;
+}
+ul a{
+	text-align:left;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+	color:#000;
+	font-style:italic;
+	font-size:large;
+	list-style-type:none;
+	overflow:auto;
+	/*position:fixed;*/
+	overflow:hidden;
+}
+/*here*/
+ul{
+	overflow:hidden;
+	background-color:yellow;
+	/*position:fixed;*/
+}
+.link1,.link2,.link3,.link4,.link5{
+	float:left;
+}
+.aa0{
+	list-style-type:none;
+}
+.link1 a,.link2 a,.link3 a,.link4 a,.link5 a{
+	inline:display-block;
+}
+/*here*/
+.link1 .active{
+	background-color:blue;
+}
+.link1, .link2, .link3, .link4, .link5,{
+	display: inline-block;
+}
+a:active{
+	background-color:red;
+}
+a:focus{
+	background-color:green;
+	
+}
+a:visited{
+	background-color:yellow;
+}
+a:hover{
+	background-color:orange;
+}
+.p104:focus{
+	background-color:rgb(253,0,19);
+}
+.p104:active{
+	transform: translateY(10px);
+	border-radius:20px;
+}
+.link1:active,.link2:active,.link3:active,.link4:active,.link5:active,.hahaha:active{
+	color:red;
+}
+a:visited{
+	color:rgb(55,150,255);
+}

@@ -1,0 +1,60 @@
+body{
+	margin:40px 40px 40px 40px;
+	background-color:rgb(255,255,128);
+}
+.bi{
+	text-align:center;
+	width:100%;
+}
+.what{
+	text-align:center;
+}
+.bi1{
+	text-align:center;
+	color:purple;
+	font-size:30px;
+}
+.Good{
+	height:120px;
+	width:auto;
+}
+/*
+a:active{
+	background-color:red;
+}
+a:focus{
+	background-color:green;
+	
+}
+a:visited{
+	background-color:rgb(173,173,173);
+}
+a:visited{
+	color:rgb(55,150,255);
+}
+.link1:active,.link2:active,.link3:active,.link4:active,.link5:active,.hahaha:active{
+	color:red;
+}
+a:hover{
+	background-color:orange;
+}*//*
+a:visited{
+	background-color:yellow;
+}
+.aa0{
+	list-style-type:none;
+}/*
+ul{
+	overflow:hidden;
+	background-color:yellow;
+	/*position:fixed;*/
+}/*
+.link1,.link2,.link3,.link4,.link5{
+	float:left;
+}
+.aa0{
+	list-style-type:none;
+}
+.link1 a,.link2 a,.link3 a,.link4 a,.link5 a{
+	inline:display-block;
+}*/
