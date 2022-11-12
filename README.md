@@ -9,8 +9,7 @@ Website
 
 ![SmartphoneG4](https://user-images.githubusercontent.com/80117331/201470403-e491bb68-31ae-43ee-8529-bdb2809724ca.PNG)
 
-![Uploading SmartphoneG5.jpg…]()
+
 
 ![SmartphoneG6](https://user-images.githubusercontent.com/80117331/201470498-e1c438bf-bd35-4a62-9253-a74728da66c7.PNG)
 
-![Uploading SmartphoneG7.PNG…]()
